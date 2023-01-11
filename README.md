@@ -16,7 +16,7 @@ This is just a base template for a README with `Lorem Ipsum`, used for the [Reba
 
 DIARY
 ------------
-Sometimes I wonder if AJ even likes me. He's such a mystery.
+I'm pretty sure AJ likes me. Sometimes we laugh and talk about things. I like his hair.
 
 REQUIREMENTS
 ------------
