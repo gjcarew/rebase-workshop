@@ -14,6 +14,8 @@ CONTENTS OF THIS FILE
 ------------
 This is just a base template for a README with `Lorem Ipsum`, used for the [Rebase Workflow Workshop](https://mod4.turing.edu/lessons/rebase-workflow-workshop.html) session.
 
+DIARY
+------------
 Sometimes I wonder if AJ even likes me. He's such a mystery.
 
 REQUIREMENTS
